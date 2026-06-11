@@ -372,6 +372,25 @@ Pressionar o botão do Atom para alternar entre:
 
 ---
 
+# Arquitetura
+
+M5Atom-PC-Monitor/
+│
+├── firmware/
+│   └── atom_monitor.ino
+│
+├── python/
+│   └── monitor.py
+│
+├── docs/
+│   ├── montagem.jpg
+│   ├── tela_uso.jpg
+│   └── tela_temp.jpg
+│
+├── README.md
+│
+└── LICENSE
+
 # Resultado Final
 
 Projeto de monitoramento de hardware em tempo real utilizando:
