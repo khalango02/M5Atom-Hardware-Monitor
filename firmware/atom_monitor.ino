@@ -8,8 +8,8 @@
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 
-const char* ssid = "LIVE TIM_C34A_2G";
-const char* password = "787gnxpd67cn9m4b";
+const char* ssid = "SSID_WIFI";
+const char* password = "SENHA_WIFI";
 
 WebServer server(80);
 
